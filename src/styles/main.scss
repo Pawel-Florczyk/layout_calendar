@@ -27,7 +27,7 @@
     &:hover {
       cursor: pointer;
       background-color: $background-color-hover;
-      transform: translateY(-10px);
+      transform: translateY(-20px);
     }
 
     @for $i from 1 through 31 {
