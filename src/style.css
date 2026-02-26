@@ -25,7 +25,7 @@
 .calendar__day:hover {
   cursor: pointer;
   background-color: #ffbfcb;
-  transform: translateY(-10px);
+  transform: translateY(-20px);
 }
 
 .calendar__day:nth-child(1)::before {
